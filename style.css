@@ -147,6 +147,24 @@ button:hover{
     opacity: 0.5;
 }
 
+.fiver-color{
+    color: black;
+}
+
+.dot{
+    color: rgba(31, 183, 109, 0.644);
+}
+
+.fiver:hover{
+    border-color:rgba(252,176,69,1);
+    background-color: rgba(250,176,69,1);
+}
+
+.dot:hover{
+    border-color:rgba(252,176,69,1);
+    background-color: rgba(250,176,69,1);
+}
+
 @media screen and (max-width: 1075px){
     .content{
         flex-direction: column;
