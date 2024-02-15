@@ -149,10 +149,12 @@ button:hover{
 
 .fiver-color{
     color: black;
+    font-weight: bold;
 }
 
 .dot{
     color: rgba(31, 183, 109, 0.644);
+    font-weight: bold;
 }
 
 .fiver:hover{
