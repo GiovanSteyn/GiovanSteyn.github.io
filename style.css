@@ -167,6 +167,7 @@ button:hover{
     background-color: rgba(250,176,69,1);
 }
 
+
 @media screen and (max-width: 1075px){
     .content{
         flex-direction: column;
